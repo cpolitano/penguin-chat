@@ -1,0 +1,23 @@
+{
+  "name": "penguin-chat",
+  "version": "1.0.0",
+  "description": "PWA for Antarctica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpolitano/penguin-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpolitano/penguin-chat/issues"
+  },
+  "homepage": "https://github.com/cpolitano/penguin-chat#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
